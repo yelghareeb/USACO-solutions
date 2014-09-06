@@ -1,7 +1,6 @@
 /*
-ID: c.eng_j1
-PROG: spin
-LANG: C++
+	Problem: spin
+	Author: Youssef ElGhareeb
 */
 
 #include <iostream>
