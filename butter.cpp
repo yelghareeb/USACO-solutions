@@ -34,6 +34,7 @@ int main() {
 		grid [t].push_back (make_pair(f,cost));
 	}
 	
+	// Make a modification to the code
 	for (int i=1;i<=p;i++) {
 		//Choose location i as the meeting point, now do Disjkstra
 		int visited [805], dist[805];
